@@ -1,0 +1,1 @@
+from facebook_breach.wsgi import application
